@@ -1,0 +1,13 @@
+{
+  "Version": "2012-10-17",
+  "Id": "Policy1724774841740",
+  "Statement": [
+    {
+      "Sid": "Stmt1724774839964",
+      "Effect": "Allow",
+      "Principal": "*",
+      "Action": "sqs:*",
+      "Resource": "arn:aws:sqs:ap-south-1:440744244205:conversion-queue/*"
+    }
+  ]
+}
