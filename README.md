@@ -59,4 +59,4 @@ Step 10:- copy public IP of instance and paste it on a new tab
 https://github.com/user-attachments/assets/b5164da3-f160-414f-af7e-ccf500b0772a
 
 ## Conclusion
-AWS Services can be integrated to build a scalabel and efficient solution by utilizing EC2, IAM , S3, SQS and Lambda that allows users to upload files in one format, convert them to another format, and download.
+AWS Services can be integrated to build a scalabel and efficient solution by utilizing EC2, IAM , S3, SQS and Lambda that allows users to upload files in one format, convert them to another format. 
